@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrequencyCounter", "Frequen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplePointers", "MultiplePointers\MultiplePointers.csproj", "{33294A1C-3997-4478-91B7-8D59E96E78D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{3C662A20-9269-41E3-BBAE-115FC997E0FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{3C662A20-9269-41E3-BBAE-115FC997E0FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{2A9BB3F2-E3A5-4189-BA44-6E7A0E197A72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{2A9BB3F2-E3A5-4189-BA44-6E7A0E197A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeStringSearch", "NativeStringSearch\NativeStringSearch.csproj", "{596A4604-6DEE-4447-A7AE-450176A710F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2A9BB3F2-E3A5-4189-BA44-6E7A0E197A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A9BB3F2-E3A5-4189-BA44-6E7A0E197A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A9BB3F2-E3A5-4189-BA44-6E7A0E197A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596A4604-6DEE-4447-A7AE-450176A710F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596A4604-6DEE-4447-A7AE-450176A710F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596A4604-6DEE-4447-A7AE-450176A710F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596A4604-6DEE-4447-A7AE-450176A710F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
