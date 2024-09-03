@@ -21,7 +21,7 @@
                     }
                 }
 
-                Console.WriteLine(matches);
+                Console.WriteLine($"There are {matches} match(es).");
             }
         }
     }
