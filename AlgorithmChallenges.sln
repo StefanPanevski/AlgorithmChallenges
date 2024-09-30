@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearSearch", "LinearSearc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{2A9BB3F2-E3A5-4189-BA44-6E7A0E197A72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeStringSearch", "NativeStringSearch\NativeStringSearch.csproj", "{596A4604-6DEE-4447-A7AE-450176A710F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NativeStringSearch", "NativeStringSearch\NativeStringSearch.csproj", "{596A4604-6DEE-4447-A7AE-450176A710F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{BFDC01A2-6A08-4048-B0B1-7BF0A734E105}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{596A4604-6DEE-4447-A7AE-450176A710F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{596A4604-6DEE-4447-A7AE-450176A710F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{596A4604-6DEE-4447-A7AE-450176A710F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDC01A2-6A08-4048-B0B1-7BF0A734E105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDC01A2-6A08-4048-B0B1-7BF0A734E105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDC01A2-6A08-4048-B0B1-7BF0A734E105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDC01A2-6A08-4048-B0B1-7BF0A734E105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
