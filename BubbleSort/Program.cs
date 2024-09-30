@@ -18,7 +18,9 @@
 
                 for (int i = sortArray.Length - 1; i > 0; i--)
                 {
-                    for (int j = 0; j < sortArray.Length - 1; j++)
+                    Console.WriteLine("New outer loop iteration:");
+
+                    for (int j = 0; j < i; j++)
                     {
                         if (sortArray[j] > sortArray[j + 1])
                         {
@@ -32,7 +34,6 @@
                         }
                         Console.WriteLine();
                     }
-                    Console.WriteLine("New outer loop iteration:");
                 }
 
                 Console.WriteLine("Sorted array:");
